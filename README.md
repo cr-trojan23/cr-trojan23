@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello, I'm Srinivas</h2>
 
-### 👨🏻<200d>💻 &nbsp;About Me
+### 👨💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore the world of system administration and cloud computing.\
 🎓 &nbsp;I'm currently studying Computer Science in Vellore Institute of Technology.\
