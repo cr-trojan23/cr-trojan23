@@ -4,9 +4,9 @@
 
 💡 &nbsp;I like to explore the world of linux system administration and cloud computing.\
 🎓 &nbsp;I'm currently studying Computer Science in Vellore Institute of Technology.\
-🌱 &nbsp;I'm on track for learning more about Cloud Architecture, Operating Systems, and Shell scripting.\
+🌱 &nbsp;I'm on track for learning more about Cloud Computing, DevOps, and Shell scripting.\
 ✉️  &nbsp;You can shoot me an email at cr\_trojan23@protonmail.ch ! I'll try to respond as soon as I can.\
-<img alt="Night Coding" src="https://raw.githubusercontent.com/cr-trojan23/cr-trojan23/master/assets/Night-Coding.gif" align="right"/>
+<img alt="coding" src="https://raw.githubusercontent.com/cr-trojan23/cr-trojan23/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠  &nbsp;Tech Stack
 
