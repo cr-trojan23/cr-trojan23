@@ -41,7 +41,7 @@
 ### 🤝&nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/srinivas-v-b2059b1ab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BFbFno7laRQmfqed9Tn6CTw%3D%3D">
+<a href="https://www.linkedin.com/in/srinivasvangipuram">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/cr_trojan23">
 <img alt="Twitter" src="https://img.shields.io/badge/crtrojan23%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
